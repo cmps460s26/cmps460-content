@@ -1,1 +1,1 @@
-# cmps460-content
+# cmps460 course content
